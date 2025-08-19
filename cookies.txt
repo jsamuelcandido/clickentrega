@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.fastrepair.com.br	TRUE	/politica-de-privacidade	FALSE	1999999999	gpages_user	%7B%22ip%22%3A%222804%3Af44%3A60b%3A1c00%3A80b0%3A10c0%3A2ff2%3Aabd8%22%2C%22agent%22%3A%22Mozilla%2F4.5%20(compatible%3B%20HTTrack%203.0x%3B%20Windows%2098)%22%2C%22country%22%3A%22BR%22%2C%22state%22%3A%22SP%22%2C%22city%22%3A%22Praia%20Grande%22%2C%22eId%22%3A%22GPages.a9T21755617828650%22%7D
+.www.fastrepair.com.br	TRUE	/	FALSE	1999999999	__cf_bm	jhXmsyMcLlLUg48IRgzgzizQ8.xRH_UGsUIjCcArwDU-1755617828-1.0.1.1-i7kvINU0D0ZdAsJ9uAeDpzISNQplZBq47PTy0SaAkMJUrqeb_FLyJv_VjvD11NZNNAwwyaUx1HywqnwSKfB9H998ouyFfWmcRJuSb7yJWbE
+www.fastrepair.com.br	TRUE	/	FALSE	1999999999	SameSite	None
+
